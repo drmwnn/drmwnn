@@ -22,6 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -51,6 +52,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -59,8 +61,13 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drmwnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmwnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180"/>
+</div>
+
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=drmwnn&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drmwnn&theme=tokyonight" width="90%"/>
 </p>
 
 ---

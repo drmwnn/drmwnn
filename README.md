@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Open+Source+Enthusiast+%E2%9C%A8;Welcome+to+My+Profile!+%F0%9F%8E%89" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+My+Profile!+%F0%9F%8E%89" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Badges -->
@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -57,17 +58,25 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drmwnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=bf91f3&title_color=70a5fd&text_color=38bdae&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmwnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180"/>
-</div>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drmwnn&theme=tokyonight" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drmwnn&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drmwnn&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drmwnn&theme=tokyonight" width="32%"/>
 </p>
 
 ---
@@ -78,17 +87,27 @@
   <tr>
     <td>🔭</td>
     <td><b>Currently Working On</b></td>
-    <td>Web & Mobile Development Projects</td>
+    <td>Web, Mobile & AI Projects</td>
   </tr>
   <tr>
     <td>🌱</td>
     <td><b>Currently Learning</b></td>
-    <td>Laravel, Vue.js & Flutter</td>
+    <td>Laravel, Vue.js, Flutter & Artificial Intelligence</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>AI Interest</b></td>
+    <td>Face Recognition & Lip Movement Detection</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>Thesis Project</b></td>
+    <td>AI-based Face Recognition & Lip Movement Detection System</td>
   </tr>
   <tr>
     <td>💬</td>
     <td><b>Ask Me About</b></td>
-    <td>Backend, Frontend & Mobile Development</td>
+    <td>Backend, Frontend, Mobile Dev & Computer Vision</td>
   </tr>
   <tr>
     <td>📫</td>

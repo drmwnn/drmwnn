@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Darmawan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Asep%20Darmawan%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
 
 <!-- Typing SVG -->
@@ -10,50 +10,62 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/drmwnn?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/drmwnn?style=for-the-badge&logo=github&labelColor=1a1b27&color=70a5fd">
-  </a>
-  <a href="https://github.com/drmwnn">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=drmwnn&style=for-the-badge&color=70a5fd&labelColor=1a1b27">
-  </a>
-</p>
-
-<!-- Connect With Me -->
-<p align="center">
-  <a href="https://www.instagram.com/drmwnksp/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/drmwnnn/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://github.com/drmwnn?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/drmwnn?style=for-the-badge&logo=github&labelColor=1a1b27&color=70a5fd"></a>
+  <a href="https://github.com/drmwnn"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=drmwnn&style=for-the-badge&color=70a5fd&labelColor=1a1b27"></a>
+  <a href="https://www.instagram.com/drmwnksp/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/drmwnnn/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### ⚙️ Backend Development
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
-### 🗄️ Databases
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🗄️ Database & Backend Services
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Tools & Platforms
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+![Microsoft Project](https://img.shields.io/badge/MS%20Project-%23217346.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🤝 Collaboration
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/MS%20Teams-%236264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+
+### 🚀 Expertise
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23FF6B6B.svg?style=for-the-badge&logo=target&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-%234ECDC4.svg?style=for-the-badge&logo=handshake&logoColor=white)
+![Laravel Queue](https://img.shields.io/badge/Laravel%20Queue-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Broadcasting](https://img.shields.io/badge/Real--time%20Broadcasting-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 

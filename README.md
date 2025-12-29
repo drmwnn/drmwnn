@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Google%20ML%20Kit-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
 </p>
 
 ---

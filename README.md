@@ -18,30 +18,54 @@
   </a>
 </p>
 
----
-
-## 🙋‍♂️ About Me
-
-```yaml
-name: Darmawan
-location: Indonesia 🇮🇩
-current_focus: Building awesome projects
-interests:
-  - Web Development
-  - Open Source
-  - Learning New Technologies
-hobbies:
-  - Coding 💻
-  - Gaming 🎮
-  - Coffee ☕
-```
+<!-- Connect With Me -->
+<p align="center">
+  <a href="https://www.instagram.com/drmwnksp/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/drmwnnn/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,php,laravel,mysql,mongodb,git,docker,vscode&perline=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drmwnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=drmwnn&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmwnn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,45 +73,17 @@ hobbies:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drmwnn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=drmwnn&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drmwnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drmwnn&theme=tokyonight&hide_border=true&background=0D1117&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmwnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drmwnn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=bf91f3&point=ff9e64" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drmwnn/drmwnn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+- 🔭 I'm currently working on **exciting projects**
+- 🌱 I'm currently learning **new technologies**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: **[Instagram](https://www.instagram.com/drmwnksp/) | [LinkedIn](https://linkedin.com/in/drmwnnn/)**
 
 ---
 

@@ -60,17 +60,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=drmwnn&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=drmwnn&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
 </p>
 
 ---
 
-## 🎯 Currently
+## 🎯 What I'm Up To
 
-- 🔭 I'm currently working on **Web & Mobile Development Projects**
-- 🌱 I'm currently learning **Laravel, Vue.js & Flutter**
-- 💬 Ask me about **Backend, Frontend & Mobile Development**
-- 📫 How to reach me: **[Instagram](https://www.instagram.com/drmwnksp/) | [LinkedIn](https://linkedin.com/in/drmwnnn/)**
+<table align="center">
+  <tr>
+    <td>🔭</td>
+    <td><b>Currently Working On</b></td>
+    <td>Web & Mobile Development Projects</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><b>Currently Learning</b></td>
+    <td>Laravel, Vue.js & Flutter</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><b>Ask Me About</b></td>
+    <td>Backend, Frontend & Mobile Development</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td><b>Reach Me At</b></td>
+    <td><a href="https://www.instagram.com/drmwnksp/">Instagram</a> • <a href="https://linkedin.com/in/drmwnnn/">LinkedIn</a></td>
+  </tr>
+</table>
 
 ---
 

@@ -54,47 +54,22 @@
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
-![Microsoft Project](https://img.shields.io/badge/MS%20Project-%23217346.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### 🤝 Collaboration
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/MS%20Teams-%236264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-
-### 🚀 Expertise
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23FF6B6B.svg?style=for-the-badge&logo=target&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-%234ECDC4.svg?style=for-the-badge&logo=handshake&logoColor=white)
-![Laravel Queue](https://img.shields.io/badge/Laravel%20Queue-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Laravel Broadcasting](https://img.shields.io/badge/Real--time%20Broadcasting-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drmwnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=drmwnn&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmwnn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drmwnn&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=drmwnn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 💬 Ask me about **Web Development**
+- 🔭 I'm currently working on **Web & Mobile Development Projects**
+- 🌱 I'm currently learning **Laravel, Vue.js & Flutter**
+- 💬 Ask me about **Backend, Frontend & Mobile Development**
 - 📫 How to reach me: **[Instagram](https://www.instagram.com/drmwnksp/) | [LinkedIn](https://linkedin.com/in/drmwnnn/)**
 
 ---
